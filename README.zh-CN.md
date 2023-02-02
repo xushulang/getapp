@@ -1,28 +1,28 @@
 # getapp
 
-An Electron application with Vue and TypesSript
+一个使用 Electron、Vite、Vue 和 TypesSript 开发的软件获取应用。
 
-English | [中文](./README.zh-CN.md)
+[English](./README.md) | 中文
 
-## Recommended IDE Setup
+## 推荐 IDE 配置
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## Project Setup
+## 项目设置
 
-### Install
+### 安装依赖
 
 ```bash
 $ npm install
 ```
 
-### Development
+### 开发环境运行
 
 ```bash
 $ npm run dev
 ```
 
-### Build
+### 生产环境编译
 
 ```bash
 # For windows
@@ -35,13 +35,13 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
-### Releases
+### 发布
 
-[v0.1.0 (Latest)](https://github.com/xushulang/getapp/releases/tag/v0.1.0)
+[v0.1.0 （最新）](https://github.com/xushulang/getapp/releases/tag/v0.1.0)
 
-[History Version](https://github.com/xushulang/getapp/releases)
+[历史版本](https://github.com/xushulang/getapp/releases)
 
-**Your support makes me do better. Please donate to me through WeChat or Alipay.**
+**做得更好，离不开您的支持，请通过微信或支付宝捐赠我。**
 
 <p style="display: flex; gap: 16px">
   <img
